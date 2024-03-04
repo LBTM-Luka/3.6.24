@@ -1,0 +1,103 @@
+E250D
+
+
+Luka Bostick is inviting you to a scheduled Zoom meeting.
+
+Topic: I.A.A.S: Discover Expedition Education and Outreach Investors Call 
+Time: Mar 6, 2024 05:00 PM Central Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/96931681400?pwd=SCtIOHNHMUdhWFM1T0JzS0RReWE4dz09
+
+Meeting ID: 969 3168 1400
+Passcode: 1C1JYz
+
+
+austen.moss@unt.edu
+wrv@utexas.edu 
+"Bondarenko, Pavlo" <PavloBondarenko@my.unt.edu>
+storm.mccauley@gmail.com <storm.mccauley@gmail.com>
+"Hochstetler, Jacob" <Jacob.Hochstetler@unt.edu>
+"Jensen, Ethan" <EthanJensen@my.unt.edu>
+"Smith, Jordan" <Jordan.Smith2@unt.edu>
+jonas.wagner.2826@gmail.com <jonas.wagner.2826@gmail.com>
+hdpil@ncsu.edu <hdpil@ncsu.edu>
+"Tang, Christina" <ChristinaTang@my.unt.edu>
+jlaughlin@dcccd.edu <jlaughlin@dcccd.edu>
+chris@landseaskyco.com <chris@landseaskyco.com>
+
+#SLIDE The End of Moore's law#
+# KEY POINTS Growth models #
+Throughout the developed of CMOS technology two fundamental law have been observed.
+
+Moore’s law 
+Moore’s law essentially allows for the density of transistors to double within a unit area every 18 months to two years. This is represented by the cost of computer memory and storage exponentially decreasing   
+# SLIDE Dennard scaling#
+Dennard scaling: The operating voltage of a transistor reduces as you shrink the transistor, 
+This is a rare occurrence in hardware design, Dennard scaling not only allows us to reduce the Energy Consumption of CMOS circuits, 
+
+but unfortunately Dennard scaling has now slowed down to such an extent, meaning that operating voltage of transistors have not lowed substantially over the last 5 – 10 years as represent by this graph.
+To Moore’s law credit we have consistently been able to pack an ever-increasing number of transistors in a unit area. The issue that does occur is when you try to pack an ever-increasing number of transistors without substantially reducing the transistor voltage, the power density causes issues with thermal performance. The above mentioned is why there is a growing interest in technology that are Beyond CMOS
+# SLIDE Beyond CMOS#
+The team that I have been working with has proposed an augmentation to existing CMOS Technologies through the use of Superconductive technologies. 
+The next logical question might be what the advantages of Superconductive technologies are. The main reason for our interest is best understood when observing the switching energy consumption CMOS versus singular flux quantum versus reversible computing.
+Technology	Switching energy	Frequency
+CMOS (Charge-transfer based)	10^6 KbTln2	~6 GHz @ 77K and above
+Single Flux Quantum (RSFQ)	10^3 KbTln2	~50 GHz @ 4.2K
+		
+# KEY POINTS Market Cap and all major players / technologies #
+
+Switching energy is the minimum, meaning that you have to be at least three times that to have a signal value that we can detect. Ok, so 10^6 for CMOS; single flux quantum 10^3. Reversible computing using an idiomatic version of sfq logic has a variable amount switching energy depending on the thermal environment and so in the best case six orders of magnitude improvement in energy efficiency and the performance is quite acceptable right even at that.
+
+# SLIDE DISCoVER Expedition#
+
+With all of that said, I would now like to explain what organization I am representing here today. 
+The University of Southern California has an ongoing NSF grant entitled DISCoVER Expedition, which stands Design & Integration of Superconductive Computation for Ventures beyond Exascale Realization. This seven year long grant is split into the following 5 parts 
+# SLIDE DISCoVER Expedition 2#
+
+* gloss over the thrusts and get to the theory*
+The end goal of the Expedition is the demonstration of a Superconducting SOC named SuperSoCC, the idea here is that we can use a superconducting technology and integrate a CPU’s neural network accelerator, connect it to some dram and build an entire system that would demonstrate  superconductivity’s feasibility. 
+But before we move on we need to gain more understanding of the underlying technology.
+We will start with Josephson Junctions, then Superconductive Quantum Interface Device, after we will move on to Josephson Transmission Lines and final Destructive Readout Cells which is essentially a memory cell. 
+
+
+# SLIDE JJ#
+# KEY POINTS Demonstate that you understand SQF#
+First observed in the 1900s by Brian Josephson 
+A Josephson Junction is basically two superconducting materials that are separated by a thin oxide layer. When you cool this superconducting material to around 6 Kelvin (or -448.87F) it forms what is called a Cooper Pair. 
+This is a set of electrons that can move between the superconductive ends with zero resistance. What that means practically is that these electrons (Cooper Pairs) can move large distances with zero energy lost. This is called a single flux Quantum technology and is the foundational element. 
+The Josephson Junction or JJ is equivalent to a transistor 
+
+# SLIDE JJ2#
+When the cooper pair current is small (otherwise know as critical current or ic), the jj behaves like an ordinary superconductor. When the current is greater than the critical current the JJ loses its superconductivity and that jj is now referred to as a switched jj.
+To Recap until your current reaches the IC value the voltage does not develop because there is no resistance in the system, but the moment you reach the IC’s value suddenly the voltage appears across these Junctions. This is a foundational property of jj’s that we will shortly use to build some complex sfq Circuits 
+
+# SLIDE  Josephson Transmission Line#
+The Josephson Transmission Line is the first complex circuit built  with Josephsons technology  I wanted to mention.
+Before moving on when I show circuits the X corresponds to a JJ, and the components labeled Q are inductors.  
+
+So taken altogether, we have two JJ and three inductor create what is called a squid Loop.
+What this allows us to do is when any voltage or input current that you provide on the input side is transmitted onto the output side 
+As of now, I have interview for an internship position at DISCoVER Expedition, and I have been ask to submit a project proposal for my time at DISCoVER Expedition, while also being encouraged by the team at usc to present my potential contributions. 
+
+
+
+# SLIDE PART 2 What is LBTM#
+# KEY POINTS Businesses Principles | Substanble Development #
+
+A clear explanation of the problem your product or service is solving
+
+The size of your market and potential competitors
+
+
+# SLIDE PART 3 I.A.A.S: Discover Expedition Education and
+Outreach #
+#KEY FIGURES  
+#KEY POINTS What we will do with the Investors Money#
+
+
+# SLIDE PART 4 LBTM #
+
+
+
+
