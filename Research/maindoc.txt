@@ -1,6 +1,29 @@
 E250D
 
+Dependences
+brew
+PHP 8.2.13
+mysql
 
+
+
+TERMINAL COMMANDS / STEPS
+ # /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ #brew install php
+
+# brew install mysql
+
+# brew install composer
+
+# cd Research/The-Beyond-CMOS-NoteBook/web
+
+# composer create-project laravel/laravel Beyond_CMOS_Notebook_Review_Edition
+
+# php artisan serve
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+   
 Luka Bostick is inviting you to a scheduled Zoom meeting.
 
 Topic: I.A.A.S: Discover Expedition Education and Outreach Investors Call 
